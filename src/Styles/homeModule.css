@@ -1,0 +1,75 @@
+.homeContainer {
+    
+}
+
+.homeWeb {
+    display: flex; 
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    border: 1px solid var(--green); 
+    width: 90vw;
+    height: 80vh;
+    border-radius: 15px;
+    background-color: rgb(33, 35, 37);
+    color: var(--green);
+}
+
+.homeWeb p {
+    margin-left:25%;
+    margin-top: 5%;
+}
+
+.homeWeb h1 {
+    font-size: 3em;
+    margin: 0 0 0 25%;
+    color: var(--lightest-slate)
+}
+
+.homeWeb h2 {
+    font-size: 3em;
+    margin: 0 0 0 25%;
+    color: var(--slate)
+}
+
+#bio {
+    margin-top: 2%;
+    color: var(--slate);
+    width: 25%;
+    line-height: 1.6;
+}
+
+.webBar {
+    height: 3.5vh;
+    width: 100%;
+    border-bottom: 1px solid var(--green);
+    background-color: rgb(54, 49, 49);
+    border-radius: 15px 15px 0 0;
+}
+
+.webURL {
+    display: flex; 
+    height: 5vh;
+    width: 100%;
+    border-bottom: 1px solid var(--green);
+    background-color: rgb(54, 49, 49);
+    border-radius: 15px 15px 0 0;
+    align-items: center;
+}
+
+.navIcons {
+    margin-left: 2%;
+}
+
+.urlBar {
+    font-size: .5em;
+    color: black;
+    margin-left: 2%;
+    border: solid .5px black;
+    width: 60vw;
+    height: 2vh;
+    background-color: white;
+    border-radius: 5px;
+}
+
