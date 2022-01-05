@@ -1,0 +1,16 @@
+.skills {
+    display: grid; 
+    grid-template-columns: auto auto auto auto;
+    column-gap: 2%;
+    row-gap: 8%;
+    height: 60vh;
+    width: 90vw;
+    margin-left: 5%;
+}
+
+.skillObj {
+    border: .5px solid rgb(196, 196, 196); 
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    text-align: center;
+    padding: 2%;
+}
