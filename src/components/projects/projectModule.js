@@ -4,7 +4,7 @@ import { NavBar } from '../navBar/navbar'
 export const ProjectModule = () => {
     return (
         <>
-            <h1 className="title">Projects</h1>
+            <div><h1 className="projectTitle">Projects</h1></div>
             <section className="project">
                 <div className="projectPage">
                     <img src="https://maxcdn.bootstrapcdn.com/bootstrap/"></img>
@@ -35,6 +35,7 @@ export const ProjectModule = () => {
                     This is where I will talk about the project. Description, followed by why I decided to make it. 
                 </div>
             </section>
+    
         </>
     )
 }

@@ -6,7 +6,8 @@ export const ContactModule = () => {
 
     return (
         <>
-            <h1 className="title">Contact</h1>
+            <div className="contactContainer">
+            <h1 className="contactTitle">Contact</h1>
             <section className="contact">
                 <form>
                     <div className="nameEmail">
@@ -18,6 +19,7 @@ export const ContactModule = () => {
                     <div className="submitButton"><button type="submit">send</button></div>
                 </form>
             </section>
+            </div>
         </>
     )
 }

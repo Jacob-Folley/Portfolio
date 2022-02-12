@@ -4,11 +4,13 @@
    display: flex; 
    flex-direction: column;
    width: 100vw;
-   height: 80vh;
+   height: 100vh;
    justify-content: space-around;
    align-items: center;
-   font-family: 'Space Mono', monospace;
+   font-family: 'Poppins', sans-serif;
    letter-spacing: 3px;
+   background-color: var(--background);
+   color: var(--font-color);
 }
 
 .introduction {
@@ -18,12 +20,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: absolute;
+    margin-top: -10%;
 }
 
 .introduction p {
     font-size: 1.5em;
     margin: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
     font-weight: bold;
     letter-spacing: 2px;
 }
@@ -50,12 +54,8 @@
     justify-content: space-evenly;
 }
 
-.title {
-    margin-top: 10%;
-    margin-bottom: 5%;
-    text-align: center;
-    letter-spacing: 3px;
-    font-family: 'Space Mono', monospace;
-}
+
+
+
 
 
