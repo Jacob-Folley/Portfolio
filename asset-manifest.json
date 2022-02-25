@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.890aba19.css",
+    "main.js": "/Portfolio/static/js/main.b263dab9.js",
+    "static/js/787.9b9c0edf.chunk.js": "/Portfolio/static/js/787.9b9c0edf.chunk.js",
+    "static/media/python-logo.png": "/Portfolio/static/media/python-logo.645a7bf502774a003373.png",
+    "static/media/html-logo.png": "/Portfolio/static/media/html-logo.9d7c24521fb9a01b84a4.png",
+    "static/media/css-logo.png": "/Portfolio/static/media/css-logo.6402b604475346c0ff73.png",
+    "static/media/js-logo.png": "/Portfolio/static/media/js-logo.f9b5a3bc9bb5205e88b3.png",
+    "static/media/sql-logo.png": "/Portfolio/static/media/sql-logo.4676ad983d6bd3e9fac9.png",
+    "index.html": "/Portfolio/index.html",
+    "main.890aba19.css.map": "/Portfolio/static/css/main.890aba19.css.map",
+    "main.b263dab9.js.map": "/Portfolio/static/js/main.b263dab9.js.map",
+    "787.9b9c0edf.chunk.js.map": "/Portfolio/static/js/787.9b9c0edf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890aba19.css",
+    "static/js/main.b263dab9.js"
+  ]
+}
