@@ -6,7 +6,7 @@ export const NavBar = () => {
 
     const [state, setState] = useState('')
 
-    const [change, setChange, setState] = useState('')
+    const [change, setChange] = useState('')
 
     const lightModeCheck = () => {
         let lightMode = localStorage.getItem('lightMode')
